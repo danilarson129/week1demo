@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+div#one {
+    background-color: aquamarine;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h3 {
+    font-size: 7em;
+    font-family: 'Josefin Sans', sans-serif;
+}
