@@ -22,7 +22,8 @@ p {
     font-family: 'IBM Plex Sans', sans-serif;
 }
 b {
-    font-size:2em;
+    font-size:1.5em;
+    background-color: slateblue;
 }
 body {
     font-size: 2em;
